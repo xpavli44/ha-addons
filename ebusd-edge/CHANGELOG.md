@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 23.2
+
+- EBUSd 23.2
 
 ## 23.1
 
